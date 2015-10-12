@@ -1,0 +1,26 @@
+= SCS Workshop Resources
+
+== Whitepapers
+
+- https://speakerdeck.com/rstrangh/self-contained-systems-1[Self-Contained Systems] -- Roman Stranghöner, InnoQ
+- https://d1fto35gcfffzn.cloudfront.net/cloud-native/infographic/Pivotal-The-Journey-to-Cloud-Native.pdf[The Journey to Cloud Native] -- Pivotal
+
+
+== Books
+
+- http://shop.oreilly.com/product/0636920033158.do[Building Microservices], O'Reilly -- Sam Newman, Thoughtworks
+- http://www.amazon.de/Microservices-Grundlagen-Softwarearchitekturen-Eberhard-Wolff/dp/3864903130/ref=sr_1_sc_1?ie=UTF8&qid=1444638307&sr=8-1-spell&keywords=Eberhard+Wolff+Microserices[Microservices - Grundlagen flexibler Softwarearchitektur (deutsch)], dpunkt -- Eberhard Wolff, InnoQ
+- https://leanpub.com/microservices-book/[Microservices - Flexible Software Architectures (english)], Leanpub -- Eberhard Wolff, InnoQ
+
+
+== Blog articles
+
+- https://blog.codecentric.de/en/2015/01/self-contained-systems-roca-complete-example-using-spring-boot-thymeleaf-bootstrap/[Self-Contained Systems and ROCA]: A complete example using Spring Boot, Thymeleaf and Bootstrap. -- Tobias Flohre, Codecentric
+- https://blog.codecentric.de/en/2015/04/bounded-contexts-and-data-duplication-in-action-adding-a-shop-system-to-the-movie-database/[Bounded Contexts and data duplication in action]: adding a shop system to the movie database. -- Tobias Flohre, Codecentric
+
+
+== Technologies
+
+- http://start.spring.io/[Spring Initializer]
+- http://projects.spring.io/spring-boot/[Spring Boot]
+- https://spring.io/guides[Spring Getting Started Guides]
